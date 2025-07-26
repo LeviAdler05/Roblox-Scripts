@@ -72,8 +72,8 @@ local function EquipCombat(Activate)
     end
 end
 
-local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Library/refs/heads/main/V5/Source.lua"))()
-local Window = Libary:MakeWindow({ "Anonymous", "by NightShadow", "rz-VoxSeas.json" })
+local Libary = loadstring(game:HttpGet("https://raw.githubusercontent.com/LeviAdler05/Testando-Scripts/main/Source.lua"))()
+local Window = Libary:MakeWindow({ "For all", "by Levi", "rz-VoxSeas.json" })
 local MainTab = Window:MakeTab({ "Farm", "Home" })
 local ConfigTab = Window:MakeTab({ "Config", "Settings" })
 
