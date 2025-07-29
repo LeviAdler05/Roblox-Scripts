@@ -73,7 +73,6 @@ local function EquipCombat(Activate)
 end
 
 local Window = Library:MakeWindow({ "For all", "by Levi", "rz-VoxSeas.json" })
-local Window = Libary:MakeWindow({ "For all", "by Levi", "rz-VoxSeas.json" })
 local MainTab = Window:MakeTab({ "Farm", "Home" })
 local ConfigTab = Window:MakeTab({ "Config", "Settings" })
 
